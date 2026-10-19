@@ -27,7 +27,7 @@
     "@types/react-dom": "16.9.1",
     "@types/react-stripe-elements": "1.1.10",
     "@types/react-textarea-autosize": "4.3.4",
-    "css-loader": "3.2.0",
+    "css-loader": "7.1.5",
     "dotenv": "8.1.0",
     "enzyme": "3.10.0",
     "enzyme-adapter-react-16": "1.15.1",
